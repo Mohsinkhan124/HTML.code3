@@ -1,8 +1,10 @@
+![logo](https://github.com/mohsinkhan222/mohsin-code/blob/main/WhatsApp%20Image%202024-08-28%20at%2011.38.17_7a908f24.jpg)
 <h1 align="center">Hi 👋, I'm Mohsin khan</h1>
 <h3 align="center">A passionate flutter app developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src=![image](https://github.com/user-attachments/assets/2fe693fb-a479-40b2-92de-fb4a4c2f2e29)
-> 
+![image](https://github.com/user-attachments/assets/4001e7a2-ac82-4dba-97ea-8a32de1ee93b)
+
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinkhan222&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinkhan222" /> </p>
 
