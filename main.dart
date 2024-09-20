@@ -29,10 +29,6 @@
 // } else {
 // print('$name is a salam khan');
 // }
-void main() {
-  var latters = ['i', 'ii', 'iii', 'iv', 'v'];
-  var numbers = [1, 2, 3, 4, 5];
-  var data = Map.fromIterables(latters, numbers);
 
   // number.remove(2);
   //users.addAll({5: 'zaberdast'});
@@ -42,6 +38,10 @@ void main() {
   // List reversed = List.of(number.reversed);
   // users.sort();
   // print(users.length);
+void main() {
+  var latters = ['i', 'ii', 'iii', 'iv', 'v'];
+  var numbers = [1, 2, 3, 4, 5];
+  var data = Map.fromIterables(latters, numbers);
 
   print(data);
 }
